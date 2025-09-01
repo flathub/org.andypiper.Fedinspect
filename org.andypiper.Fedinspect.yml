@@ -27,8 +27,8 @@ modules:
     buildsystem: meson
     sources:
       - type: archive
-        url: https://codeberg.org/andypiper/fedinspect-gtk/archive/v1.2.1.tar.gz
-        sha256: 530959e50f6e707ce9f3a3472e7a3024545e4493ea13ea2ed10c56fe6d701a98
+        url: https://codeberg.org/andypiper/fedinspect-gtk/archive/v1.2.2.tar.gz
+        sha256: 4c53a73d8fc77f0dcd5b1c0aab8e1e03dba926d12746420fcd1676c56ae19337
         x-checker-data:
           type: git
           url: https://codeberg.org/andypiper/fedinspect-gtk.git
