@@ -28,7 +28,7 @@ modules:
     sources:
       - type: archive
         url: https://codeberg.org/andypiper/fedinspect-gtk/archive/v1.2.2.tar.gz
-        sha256: 995b0e836f8aba054157ec3fbb5002e8ba39b63c06366cdb62022e33c8303368
+        sha256: 4c53a73d8fc77f0dcd5b1c0aab8e1e03dba926d12746420fcd1676c56ae19337
         x-checker-data:
           type: git
           url: https://codeberg.org/andypiper/fedinspect-gtk.git
